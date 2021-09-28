@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "fullName": "Faizah",
+      "email": "faizah@gmail.com",
+      "mobile": "09274651876",
+      "gender": "female",
+      "country": "Bangladesh",
+      "dateofBirth": "Jun 15 1997"
+    },
+    {
+      "id": "y0hkBii",
+      "fullName": "faeleen",
+      "email": "fionafaeleen@gmail.com",
+      "mobile": "01892651789",
+      "gender": "female",
+      "country": "Japan",
+      "dateofBirth": "Sep 05 2013"
+    },
+    {
+      "id": "WydHSyC",
+      "fullName": "faeleen",
+      "email": "faiz2119219@gmail.com",
+      "mobile": "01918514915",
+      "gender": "female",
+      "country": "Japan",
+      "dateofBirth": "Sep 09 2021"
+    },
+    {
+      "id": "pDFV9G0",
+      "fullName": "faeleen",
+      "email": "faiz2119219@gmail.com",
+      "mobile": "01918514915",
+      "gender": "female",
+      "country": "Bangladesh",
+      "dateofBirth": "Sep 07 2021"
+    },
+    {
+      "id": "KHrACnS",
+      "fullName": "faeleen",
+      "email": "faiz2119219@gmail.com",
+      "mobile": "01918514915",
+      "gender": "female",
+      "country": "Bangladesh",
+      "dateofBirth": "Sep 10 2021"
+    },
+    {
+      "id": "zJ41-bi",
+      "fullName": "faeleen",
+      "email": "faiz2119219@gmail.com",
+      "mobile": "01918514915",
+      "gender": "female",
+      "country": "Bangladesh",
+      "dateofBirth": "Sep 08 2021"
+    }
+  ]
+}
