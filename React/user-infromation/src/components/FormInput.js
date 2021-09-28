@@ -82,6 +82,18 @@ export default function FormInput(props) {
 
     }
 
+    const handleReset = (e) =>{
+        setValues({
+            fullName:'',
+            email:'',
+            mobile:'',
+            gender:''
+
+        });
+
+       console.log(values);
+    }
+
     console.log(values);
     return (
         <div>
@@ -190,7 +202,7 @@ export default function FormInput(props) {
                     <br/>
                     <div>
                         <Button  variant='contained' color='primary'  className={classes.button} type="submit">Save</Button>
-                        <Button  variant='outlined' color='primary'>Reset</Button>
+                        <Button  variant='outlined' color='primary' onClick={handleReset}>Reset</Button>
                     </div>
                 </Grid>
             </Grid>
